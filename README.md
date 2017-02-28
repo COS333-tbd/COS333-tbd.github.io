@@ -7,7 +7,9 @@
 Lindy Zeng lindy@princeton.edu
 
 Jesse Chou jc45@princeton.edu
+
 Xiao Yu xyyu@princeton.edu
+
 Katelyn Neese kneese@princeton.edu
 
 ### Project Leader
@@ -17,4 +19,5 @@ Katelyn Neese kneese@princeton.edu
 [TBD]
 
 ### Design Document
+
 ### Milestones
