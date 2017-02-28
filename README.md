@@ -1,4 +1,4 @@
-## COS 333 Spring 2017 Final Project
+## COS 333 Spring 2017 Final Project Website
 
 ### Project Name
 [TBD]
@@ -21,3 +21,5 @@ Katelyn Neese kneese@princeton.edu
 ### Design Document
 
 ### Milestones
+
+(Note: may have to change use from GitHub pages to using our own HTML/CSS)
