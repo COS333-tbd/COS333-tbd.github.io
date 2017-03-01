@@ -1,16 +1,16 @@
 ## COS 333 Spring 2017 Final Project Website
 
 ### Project Name
-[TBD]
+mooody
 
 ### Group Members
-Lindy Zeng lindy@princeton.edu
+Lindy Zeng (lindy@princeton.edu)
 
-Jesse Chou jc45@princeton.edu
+Jesse Chou (jc45@princeton.edu)
 
-Xiao Yu xyyu@princeton.edu
+Xiao Yu (xyyu@princeton.edu)
 
-Katelyn Neese kneese@princeton.edu
+Katelyn Neese (kneese@princeton.edu)
 
 ### Project Leader
 [TBD]
