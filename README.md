@@ -23,3 +23,5 @@ Katelyn Neese (kneese@princeton.edu)
 ### Milestones
 
 (Note: may have to change use from GitHub pages to using our own HTML/CSS)
+
+![mooody logo](mooody.png)
