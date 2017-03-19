@@ -1,6 +1,7 @@
 ## Princeton University COS 333 Spring 2017 Final Project Website
 
-![mooody logo](mooody.png)
+
+<img src="mooody.png" align="center" height="200">
 
 ### Project Name
 mooody
