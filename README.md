@@ -6,6 +6,8 @@
 ### Project Name
 mooody
 
+### Elevator Pitch
+
 ### Group Members
 Lindy Zeng (lindy@princeton.edu)
 
@@ -24,3 +26,5 @@ Xiao Yu
 ### Design Document
 
 ### Milestones
+
+### Demo Slides
