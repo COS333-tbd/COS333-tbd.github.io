@@ -1,5 +1,7 @@
 ## Princeton University COS 333 Spring 2017 Final Project Website
 
+![mooody logo](mooody.png)
+
 ### Project Name
 mooody
 
@@ -13,7 +15,7 @@ Xiao Yu (xyyu@princeton.edu)
 Katelyn Neese (kneese@princeton.edu)
 
 ### Project Leader
-[TBD]
+Xiao Yu
 
 ### Project Manager
 [TBD]
@@ -21,7 +23,3 @@ Katelyn Neese (kneese@princeton.edu)
 ### Design Document
 
 ### Milestones
-
-(Note: may have to change use from GitHub pages to using our own HTML/CSS)
-
-![mooody logo](mooody.png)
