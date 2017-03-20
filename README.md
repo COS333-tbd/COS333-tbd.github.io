@@ -36,14 +36,14 @@ Xiao Yu
   -	Basic functionality on server, running locally: ability to write posts, upvote/downvote posts, expand posts, comment on posts, upvote/downvote comments (on each of the different tabs)
   -	Social mood and personal mood tracking features implemented (just the basics for now, will add more if time allows)
   -	Front-end will be minimalistic, more important to get server-side stuff working first
-*	Mon. April 10: 
-  -	Complete user system
-  -	Polish front-end
-  -	Make sure all code so far is tested on real users so that we have a functional prototype
+ * Mon. April 10: 
+    -	Complete user system
+    -	Polish front-end
+    -	Make sure all code so far is tested on real users so that we have a functional prototype
 *	Fri. April 14: Project Prototype
-*	Mon. April 17:
+* Mon. April 17:
   -	Implement private messaging system for supportive messaging
-*	Mon. April 24:
+* Mon. April 24:
   -	Host on Heroku server in preparation for alpha test
   -	Continue testing with real users
 *	Fri. April 28: Alpha Test
