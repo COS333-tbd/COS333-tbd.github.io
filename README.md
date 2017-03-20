@@ -47,7 +47,7 @@ Xiao Yu
   -	Host on Heroku server in preparation for alpha test
   -	Continue testing with real users
 *	Fri. April 28: Alpha Test
-*	Mon. May 1:
+* Mon. May 1:
   -	Refine interface and functionality based on feedback from alpha tests and external users
   -	Extra time to deal with overhead (documentation) and unexpected turns of events
   -	If more time: additional features (but that would require even more testing, so doubtful at this point)
