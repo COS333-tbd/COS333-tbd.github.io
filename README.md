@@ -24,6 +24,7 @@ Xiao Yu
 [TBD]
 
 ### Design Document
+[Design Document](XiaoYang_Yu.pdf)
 
 ### Milestones
 
