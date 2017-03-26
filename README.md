@@ -7,6 +7,7 @@
 mooody
 
 ### Elevator Pitch
+Mental health issues on college campuses have been on the rise for the past decade, and it’s hard to keep up with this increase. When you’re feeling down, you need a place to help make yourself feel better. And, seeing that you are not alone in your hardships is in itself a reassuring feeling. Our project Mooody is a mental health-focused social web app that incorporates three important factors: accessibility, anonymity, and relatability. Mooody provides an online platform for anonymous posting and commenting and also acts as a social mood tracker, where you can input information to track your own mood over time and also see the general mood of people around you. The platform lets users anonymously reach out to other users who have indicated negative feelings on their mood tracker that day, which allows for random acts of kindness and support. Our ultimate goal is to provide a supportive community to college campuses.
 
 ### Group Members
 Lindy Zeng (lindy@princeton.edu)
