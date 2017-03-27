@@ -22,7 +22,7 @@ Katelyn Neese (kneese@princeton.edu)
 Xiao Yu
 
 ### Project Manager
-[TBD]
+Nick
 
 ### Design Document
 [Link](XiaoYang_Yu.pdf)
