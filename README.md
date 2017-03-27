@@ -22,7 +22,7 @@ Katelyn Neese (kneese@princeton.edu)
 Xiao Yu
 
 ### Project Manager
-Nick
+Nick Giannarakis (ng8@princeton.edu) 
 
 ### Design Document
 [Link](XiaoYang_Yu.pdf)
