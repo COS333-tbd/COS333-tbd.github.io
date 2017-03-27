@@ -14,12 +14,12 @@ Lindy Zeng (lindy@princeton.edu)
 
 Jesse Chou (jc45@princeton.edu)
 
-Xiao Yu (xyyu@princeton.edu)
+Xiao Yang Yu (xyyu@princeton.edu)
 
 Katelyn Neese (kneese@princeton.edu)
 
 ### Project Leader
-Xiao Yu
+Xiao Yang Yu
 
 ### Project Manager
 Nick Giannarakis (ng8@princeton.edu) 
@@ -57,3 +57,4 @@ Nick Giannarakis (ng8@princeton.edu)
 * Sun. May 14: Final Project due
 
 ### Demo Slides
+[TBD]
