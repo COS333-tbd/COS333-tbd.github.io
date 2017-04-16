@@ -41,7 +41,7 @@ Nick Giannarakis (ng8@princeton.edu)
     -	Complete user system
     -	Polish front-end
     -	Make sure all code so far is tested on real users so that we have a functional prototype
-- [ ]	Fri. April 14: Project Prototype
+- [X]	Fri. April 14: Project Prototype
 - [ ] Mon. April 17:
   -	Implement private messaging system for supportive messaging
 - [ ] Mon. April 24:
