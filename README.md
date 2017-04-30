@@ -42,7 +42,7 @@ Nick Giannarakis (ng8@princeton.edu)
     -	Polish front-end
     -	Make sure all code so far is tested on real users so that we have a functional prototype
 - [X]	Fri. April 14: Project Prototype
-- [ ] Mon. April 17:
+- [X] Mon. April 17:
   -	Implement private messaging system for supportive messaging
 - [ ] Mon. April 24:
   -	Host on Heroku server in preparation for alpha test
