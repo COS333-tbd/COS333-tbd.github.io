@@ -34,23 +34,23 @@ Nick Giannarakis (ng8@princeton.edu)
   -	Basic server template coded, server running locally
   -	Barebones user system implemented (just username and password)
 - [X] Mon. April 3:
-  -	Basic functionality on server, running locally: ability to write posts, upvote/downvote posts, comment on posts, upvote/downvote comments (on each of the different mood tabs)
+  -	Basic functionality on server, running locally: ability to write posts, upvote/downvote posts, comment on posts, upvote/downvote comments (on each of the different mood tabs), filtering and ordering by moods and by date/popularity
   -	Social mood and personal mood tracking features implemented
   -	Front-end is minimalistic, more important to get server-side stuff working first
 - [X] Mon. April 10: 
-  -	Complete user system (some sort of verification + complete authentication)
+  -	Complete user system (email or phone verification + complete authentication)
   -	Polish front-end (including smoother transitions and state-saving in Angular in-between transitions)
   -	Make sure all code so far is tested on real users so that we have a functional prototype
 - [X]	Fri. April 14: Project Prototype
 - [X] Mon. April 17:
-  -	Implement private messaging system for supportive messaging (also implemented user status)
+  -	Implement private messaging system for supportive messaging (along with user status)
   - Implement post/comment deletion
   - Responsivness design
 - [ ] Mon. April 24:
   -	Allow images in posts
   - Security stuff: input sanitization, malware/phishing detection and prevention of external image URLs
   - Complete mood tracking (finalize which moods to include and finalize chart design)
-  - Host on Heroku server in preparation for alpha test
+  - Host on Heroku server in preparation for Alpha test
   -	Continue testing with real users
 - [ ]	Fri. April 28: Alpha Test
 - [ ] Mon. May 1:
