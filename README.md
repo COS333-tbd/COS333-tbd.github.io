@@ -46,20 +46,19 @@ Nick Giannarakis (ng8@princeton.edu)
   -	Implement private messaging system for supportive messaging (along with user status)
   - Implement post/comment deletion
   - Responsivness design
-- [ ] Mon. April 24:
+- [X] Mon. April 24:
   -	Allow images in posts
   - Security stuff: input sanitization, malware/phishing detection and prevention of external image URLs
   - Complete mood tracking (finalize which moods to include and finalize chart design)
   - Host on Heroku server in preparation for Alpha test
   -	Continue testing with real users
-- [ ]	Fri. April 28: Alpha Test
-- [ ] Mon. May 1:
+- [X]	Fri. April 28: Alpha Test
+- [X] Mon. May 1:
   -	Refine interface and functionality based on feedback from alpha tests and external users
   -	Extra time to deal with overhead (documentation) and unexpected turns of events
-  - As time allows: anonymous user tracking for commenters within each post
-  - As time allows: content searching
-  - As time allows: banning system
-- [ ]	Thu. May 4 - Fri. May 5: Beta Test
+  - As time allows: anonymous user tracking for commenters within each post (achieved!)
+  - As time allows: content searching (achieved!)
+- [X]	Thu. May 4 - Fri. May 5: Beta Test
   - Preparation for the demo
 - [ ]	Mon. May 8 - Wed. May 10: Demo Days
   - Documentation preparation, final tests
