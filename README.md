@@ -1,6 +1,6 @@
 ## Princeton University COS 333 Spring 2017 Final Project Website
 
-
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon2-32x32.png">
 <img src="mooody.png" align="center" height="200">
 
 ### Project Name
