@@ -60,7 +60,7 @@ Nick Giannarakis (ng8@princeton.edu)
   - As time allows: content searching (achieved!)
 - [X]	Thu. May 4 - Fri. May 5: Beta Test
   - Preparation for the demo
-- [ ]	Mon. May 8 - Wed. May 10: Demo Days
+- [X]	Mon. May 8 - Wed. May 10: Demo Days
   - Documentation preparation, final tests
 - [ ] Sun. May 14: Final Project due
 
