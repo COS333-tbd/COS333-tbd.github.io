@@ -58,9 +58,9 @@ Nick Giannarakis (ng8@cs.princeton.edu)
   -	Extra time to deal with overhead (documentation) and unexpected turns of events
   - As time allows: anonymous user tracking for commenters within each post (achieved!)
   - As time allows: content searching (achieved!)
-  - Used extra time to implement personal mood tracking (prioritized over banning system)
 - [X]	Thu. May 4 - Fri. May 5: Beta Test
   - Preparation for the demo
+  - Used extra time to implement personal mood tracking (prioritized over banning system)
 - [X]	Mon. May 8 - Wed. May 10: Demo Days
   - Documentation preparation, final tests
 - [ ] Sun. May 14: Final Project due
