@@ -65,4 +65,4 @@ Nick Giannarakis (ng8@princeton.edu)
 - [ ] Sun. May 14: Final Project due
 
 ### Demo Slides
-[TBD]
+[Link](https://docs.google.com/presentation/d/1HhL0KfuD-CngTM4JcwuQCQw715jZs1_I9zs_b-ZZYkg/edit?usp=sharing)
