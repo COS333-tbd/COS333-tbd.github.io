@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<title>mooody</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-blue w3-card-2 w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-blue" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-hover-white">Home</a>
+    <a href="#elevator" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Elevator Pitch</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Team</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Links</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Milestones</a>
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="#elevator" class="w3-bar-item w3-button w3-padding-large">Elevator Pitch</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Team</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Links</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Milestones</a>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-container w3-blue w3-center" style="padding:128px 16px">
+  <h1 class="w3-margin w3-jumbo">mooody</h1>
+  <p class="w3-xlarge">COS 333 Spring 2017</p>
+</header>
+
+<!-- First Grid -->
+<div class="w3-row-padding w3-padding-64 w3-container" id="#elevator">
+  <div class="w3-content">
+    <div>
+      <h1>Elevator Pitch</h1>
+      <p class="w3-text-grey">Mental health issues on college campuses have been on the rise for the past decade, and it’s hard to keep up with this increase. When you’re feeling down, you need a place to help make yourself feel better. And, seeing that you are not alone in your hardships is in itself a reassuring feeling. Our project Mooody is a mental health-focused social web app that incorporates three important factors: accessibility, anonymity, and relatability. Mooody provides an online platform for anonymous posting and commenting and also acts as a social mood tracker, where you can input information to track your own mood over time and also see the general mood of people around you. The platform lets users anonymously reach out to other users who have indicated negative feelings on their mood tracker that day, which allows for random acts of kindness and support. Our ultimate goal is to provide a supportive community to college campuses.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid -->
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div>
+      <h1>Team</h1>
+      <h5 class="w3-padding-32">Group Members</h5>
+
+      <p class="w3-text-grey">Xiao Yang Yu (<a href="mailto:xyyu@princeton.edu">xyyu@princeton.edu</a>), Lindy Zeng (<a href="mailto:lindy@princeton.edu">lindy@princeton.edu</a>), Jesse Chou (<a href="mailto:jc45@princeton.edu">jc45@princeton.edu</a>), Katelyn Neese (<a href="mailto:kneese@princeton.edu">kneese@princeton.edu</a>)</p>
+
+        <h5 class="w3-padding-32">Project Leader</h5> <p class="w3-text-grey">Xiao Yang Yu</p>
+        <h5 class="w3-padding-32">Project Manager</h5> <p class="w3-text-grey">Nick Giannarakis (<a href="mailto:ng8@cs.princeton.edu">ng8@cs.princeton.edu</a>)</p>
+    </div>
+  </div>
+</div>
+
+<!-- Third Grid -->
+<div class="w3-row-padding w3-padding-64 w3-container" id="#links">
+  <div class="w3-content">
+    <div>
+       <h1>Links</h1>
+        <p class="w3-text-grey">Design Document (<a href="XiaoYang_Yu.pdf">link</a>)</p>
+        <p class="w3-text-grey">Demo Slides (<a href="https://docs.google.com/presentation/d/1HhL0KfuD-CngTM4JcwuQCQw715jZs1_I9zs_b-ZZYkg/edit">link</a>)</p>
+    </div>
+  </div>
+</div>
+
+<!-- Fourth Grid -->
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div>
+      <h1>Milestones</h1>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Sun. March 19: Design Document due</p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Mon. March 27:
+        <ul>
+          <li>Project status website online</li>
+          <li>Basic server template coded, server running locally</li>
+          <li>Barebones user system implemented (just username and password)</li>
+        </ul>
+      </p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Mon. April 3:
+        <ul>
+          <li>Basic functionality on server, running locally: ability to write posts, upvote/downvote posts, comment on posts, upvote/downvote comments (on each of the different mood tabs), filtering and ordering by moods and by date/popularity</li>
+          <li>Social mood and personal mood tracking features implemented</li>
+          <li>Front-end is minimalistic, more important to get server-side stuff working first</li>
+        </ul>
+      </p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Mon. April 10:
+        <ul>
+          <li>Complete user system (email or phone verification + complete authentication)</li>
+          <li>Polish front-end (including smoother transitions and state-saving in Angular in-between transitions)</li>
+          <li>Make sure all code so far is tested on real users so that we have a functional prototype</li>
+        </ul>
+      </p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Fri. April 14: Project Prototype</p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Mon. April 17:
+        <ul>
+          <li>Implement private messaging system for supportive messaging (along with user status)</li>
+          <li>Implement post/comment deletion</li>
+          <li>Responsivness design</li>
+        </ul>
+      </p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Mon. April 24:
+        <ul>
+          <li>Allow images in posts</li>
+          <li>Security stuff: input sanitization, malware/phishing detection and prevention of external image URLs</li>
+          <li>Complete mood tracking (finalize which moods to include and finalize chart design)</li>
+          <li>Host on Heroku server in preparation for Alpha test</li>
+          <li>Continue testing with real users</li>
+        </ul>
+      </p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Fri. April 28: Alpha Test</p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Mon. May 1:
+        <ul>
+          <li>Refine interface and functionality based on feedback from alpha tests and external users</li>
+          <li>Extra time to deal with overhead (documentation) and unexpected turns of events</li>
+          <li>As time allows: anonymous user tracking for commenters within each post (achieved!)</li>
+          <li>As time allows: content searching (achieved!)</li>
+        </ul>
+      </p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Thu. May 4 - Fri. May 5: Beta Test
+        <ul>
+          <li>Preparation for the demo</li>
+          <li>Used extra time to implement personal mood tracking (prioritized over banning system)</li>
+        </ul>
+      </p>
+      <p><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Mon. May 8 - Wed. May 10: Demo Days
+        <ul>
+          <li>Documentation preparation, final tests</li>
+        </ul>
+      </p>
+      <p>Sun. May 14: Final Project due</p>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity">  
+ <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+
+</body>
+</html>
